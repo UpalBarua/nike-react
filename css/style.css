@@ -1,0 +1,56 @@
+/* -------------- */
+/* UTILITIES      */
+/* -------------- */
+.ff-primary {
+  font-family: 'Roboto', sans-serif;
+}
+
+.ff-secondary {
+  font-family: 'Bebas Neue', cursive;
+}
+
+.bg-accent {
+  background: #fff9f4;
+}
+
+.text-accent {
+  color: #fa804c;
+}
+
+/* -------------- */
+/* HEADER         */
+/* -------------- */
+body {
+  color: #363958;
+}
+
+.banner {
+  padding: 5rem 0;
+}
+
+.navbar-brand > img {
+  max-width: 18rem;
+}
+
+.banner-img {
+  max-width: 26rem;
+}
+
+.banner-title {
+  line-height: 1;
+  font-size: 5rem;
+}
+
+.banner-text {
+  max-width: 40ch;
+}
+
+.banner-btn > img,
+.card-btn > img {
+  width: 1.2rem;
+}
+
+.card-img-top {
+  background-color: #f1f1f1;
+  min-width: 10rem;
+}
